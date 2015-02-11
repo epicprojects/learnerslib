@@ -1,7 +1,7 @@
 Learners Library
 ================
 
-Learners is native java-based machine learning library inspired by weka, Its also compatible with Android. With following algorithms implemented:
+Learners is native java-based machine learning library inspired by weka, Its also compatible with Android. Following algorithms are implemented:
 - Bayesian belief network
 - Artifical Neural Network (back propagation)
 - Support Vector Machines (Various kernels included)
